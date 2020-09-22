@@ -1,0 +1,16 @@
+.logo {
+  width: 60px;
+  height: auto;
+}
+.basicrightpic {
+  width: 40px;
+  height: 40px;
+  margin: 13px;
+}
+
+#nav-mobile {
+  margin: 0px 20px;
+}
+#navbar ul li .mainlink:hover {
+  background: none !important;
+}
